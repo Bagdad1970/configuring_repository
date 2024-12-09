@@ -1,7 +1,7 @@
 #include <iostream>
 
 int
-main()
+main()  # точка входа в программу
 {
   std::string name; // имя пользователя
   std::cin >> name;
